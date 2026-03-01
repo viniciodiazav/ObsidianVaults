@@ -11,10 +11,14 @@
             "id": "a1988d14e53f14a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ParrotOS/Bluetooth Configuration.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bluetooth Configuration"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ParrotOS/Bluetooth Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Bluetooth Configuration"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ParrotOS/Bluetooth Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Bluetooth Configuration"
             }
           },
           {
@@ -150,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "ParrotOS/Bluetooth Configuration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Bluetooth Configuration"
             }
           }
         ]
@@ -177,8 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "5fb86d3af592ca10",
+  "active": "a1988d14e53f14a3",
   "lastOpenFiles": [
+    "ParrotOS/ParrotOS.md",
+    "ParrotOS/Bluetooth Configuration.md",
+    "ParrotOS",
     "Welcome.md"
   ]
 }
