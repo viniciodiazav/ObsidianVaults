@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinuxHacker/Lectura e Interpretación de permisos.md",
+                "file": "LinuxHacker/Commandos básicos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lectura e Interpretación de permisos"
+              "title": "Commandos básicos"
             }
           }
         ]
@@ -183,13 +183,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "1a14ae48fcd08763",
+  "active": "5fb86d3af592ca10",
   "lastOpenFiles": [
-    "LinuxHacker/Descriptores de archivo.md",
-    "ParrotOS/ParrotOS.md",
-    "LinuxHacker/Commandos básicos.md",
-    "LinuxHacker/Control de flujo.md",
     "LinuxHacker/Lectura e Interpretación de permisos.md",
+    "LinuxHacker/Descriptores de archivo.md",
+    "LinuxHacker/Control de flujo.md",
+    "LinuxHacker/Commandos básicos.md",
+    "ParrotOS/ParrotOS.md",
     "ParrotOS/Bluetooth Configuration.md",
     "LinuxHacker",
     "ParrotOS",
